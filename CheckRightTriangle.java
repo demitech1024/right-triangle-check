@@ -1,7 +1,4 @@
 import java.util.Scanner;
-
-import javax.sound.midi.SysexMessage;
-
 import java.lang.Math;
 
 public class CheckRightTriangle {
